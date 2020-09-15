@@ -1,5 +1,5 @@
 node {
-    stagge('scm'){
+    stage('scm'){
     
     }
     stage ('Build') {
